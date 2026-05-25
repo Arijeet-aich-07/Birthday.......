@@ -1,4 +1,4 @@
-const correctPassword = "28052007";
+const correctPassword = "28052008";
 
 /* AUDIO */
 
